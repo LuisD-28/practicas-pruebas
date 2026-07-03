@@ -1,0 +1,55 @@
+id,brand,model,manufacture_year,car_status
+1,Toyota,Corolla,2020,available
+3,Ford,Focus,2018,maintenance
+5,Nissan,Sentra,2021,available
+6,Hyundai,Elantra,2022,rented
+7,Kia,Rio,2019,available
+8,Volkswagen,Jetta,2018,maintenance
+9,Mazda,Mazda3,2020,rented
+10,Subaru,Impreza,2021,available
+11,BMW,320i,2017,available
+12,Mercedes-Benz,C200,2019,rented
+13,Audi,A4,2020,maintenance
+14,Lexus,IS300,2022,available
+15,Tesla,Model 3,2023,rented
+16,Volvo,S60,2021,available
+17,Peugeot,208,2018,available
+18,Renault,Clio,2019,maintenance
+19,Fiat,Tipo,2017,available
+20,Skoda,Octavia,2020,rented
+21,Seat,Leon,2021,available
+22,Mitsubishi,Lancer,2016,maintenance
+23,Suzuki,Swift,2022,rented
+24,Jeep,Compass,2020,available
+25,Dodge,Charger,2019,available
+26,Chrysler,300,2018,maintenance
+27,GMC,Terrain,2021,rented
+28,Cadillac,CT5,2022,available
+29,Infiniti,Q50,2020,available
+30,Acura,TLX,2023,rented
+31,Alfa Romeo,Giulia,2021,maintenance
+32,Mini,Cooper,2019,available
+33,Jaguar,XE,2018,rented
+34,Land Rover,Discovery Sport,2020,available
+35,Porsche,Macan,2022,maintenance
+36,Ferrari,Roma,2023,rented
+37,Lamborghini,Urus,2024,available
+38,Aston Martin,Vantage,2021,available
+39,Bentley,Continental GT,2020,maintenance
+40,Rolls-Royce,Ghost,2022,rented
+41,BYD,Qin Plus,2023,available
+42,Geely,Emgrand,2021,available
+43,Chery,Arrizo 5,2020,rented
+44,Great Wall,Haval H6,2022,maintenance
+45,Tata,Altroz,2019,available
+46,Mahindra,XUV300,2021,rented
+47,Opel,Astra,2018,available
+48,Citroen,C4,2020,maintenance
+49,DS,DS 4,2022,available
+50,Cupra,Formentor,2023,rented
+51,Toyota,Yaris,2022,maintenance
+4,Chevrolet,Cruze,2017,out_of_service
+52,Toyota,Corolla,2020,available
+53,Toyota,Corolla,2019,rented
+54,BMW,X6,2021,maintenance
+2,Honda,Civic,2019,available
