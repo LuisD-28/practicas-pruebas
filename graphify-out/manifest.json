@@ -1,0 +1,142 @@
+{
+  "4. Ejercicio de Authorization/JWT_Manager.py": {
+    "mtime": 1785715011.152915,
+    "ast_hash": "62cc8a3d96c4a3118f7b218ca3f223ae",
+    "semantic_hash": "62cc8a3d96c4a3118f7b218ca3f223ae"
+  },
+  "4. Ejercicio de Authorization/dbSetup.py": {
+    "mtime": 1784590870.6607888,
+    "ast_hash": "3ecc0e14b0d742bc5859c6fbd2fdcf63",
+    "semantic_hash": "3ecc0e14b0d742bc5859c6fbd2fdcf63"
+  },
+  "4. Ejercicio de Authorization/main.py": {
+    "mtime": 1785714965.179101,
+    "ast_hash": "50a653c35dd4aeaa3f5a0d2253a0f95e",
+    "semantic_hash": "50a653c35dd4aeaa3f5a0d2253a0f95e"
+  },
+  "4. Ejercicio de Authorization/managers/invoice_manager.py": {
+    "mtime": 1785705304.4496796,
+    "ast_hash": "4ac3ea50f81df2fdaa8a26ce45e59877",
+    "semantic_hash": "4ac3ea50f81df2fdaa8a26ce45e59877"
+  },
+  "4. Ejercicio de Authorization/managers/product_manager.py": {
+    "mtime": 1784828728.181533,
+    "ast_hash": "89db11571c57c33f958df4673226d452",
+    "semantic_hash": "89db11571c57c33f958df4673226d452"
+  },
+  "4. Ejercicio de Authorization/managers/user_manager.py": {
+    "mtime": 1785705299.9147613,
+    "ast_hash": "cd864ac201c7cdac12bbbd04f92b05cc",
+    "semantic_hash": "cd864ac201c7cdac12bbbd04f92b05cc"
+  },
+  "4. Ejercicio de Authorization/models.py": {
+    "mtime": 1784601014.868288,
+    "ast_hash": "93a63a94f9cbbb459056ee635f456e4f",
+    "semantic_hash": "93a63a94f9cbbb459056ee635f456e4f"
+  },
+  "4. Ejercicio de Authorization/test_managers.py": {
+    "mtime": 1784834322.8669734,
+    "ast_hash": "71c5461e8c741a4542878caa4738aa08",
+    "semantic_hash": "71c5461e8c741a4542878caa4738aa08"
+  },
+  "Ejercicio Extra SQL python/backup_database.py": {
+    "mtime": 1783107538.2469046,
+    "ast_hash": "2abcd548a03c5c24b528974e5ad96b7a",
+    "semantic_hash": "2abcd548a03c5c24b528974e5ad96b7a"
+  },
+  "Ejercicio Extra SQL python/information_schema_tables.py": {
+    "mtime": 1783107538.2469046,
+    "ast_hash": "ec303de9221bd5ce815814451a905628",
+    "semantic_hash": "ec303de9221bd5ce815814451a905628"
+  },
+  "Ejercicio Extra SQL python/pg_manager.py": {
+    "mtime": 1783107538.247902,
+    "ast_hash": "7b7ef0b7a6e0c3170175bd737c168f42",
+    "semantic_hash": "7b7ef0b7a6e0c3170175bd737c168f42"
+  },
+  "Ejercicio Extra SQL python/seed.py": {
+    "mtime": 1783107546.721166,
+    "ast_hash": "63064bb6ce41eb3ba4e374e357543e36",
+    "semantic_hash": "63064bb6ce41eb3ba4e374e357543e36"
+  },
+  "Ejercicios Extra de ORMs/database.py": {
+    "mtime": 1784585428.143309,
+    "ast_hash": "790b781ff3388cb291f2342231c29304",
+    "semantic_hash": "790b781ff3388cb291f2342231c29304"
+  },
+  "Ejercicios Extra de ORMs/main.py": {
+    "mtime": 1784585428.143309,
+    "ast_hash": "dc058e027d2ee0df90bfd0c77ec1b70e",
+    "semantic_hash": "dc058e027d2ee0df90bfd0c77ec1b70e"
+  },
+  "Ejercicios Extra de ORMs/managers/address_manager.py": {
+    "mtime": 1784585428.1469772,
+    "ast_hash": "29184bc13632bbd4278bd6fd511423d2",
+    "semantic_hash": "29184bc13632bbd4278bd6fd511423d2"
+  },
+  "Ejercicios Extra de ORMs/managers/car_manager.py": {
+    "mtime": 1784585428.1469772,
+    "ast_hash": "c452ae2d10138dd4d17ca48cbc9f72e2",
+    "semantic_hash": "c452ae2d10138dd4d17ca48cbc9f72e2"
+  },
+  "Ejercicios Extra de ORMs/managers/user_manager.py": {
+    "mtime": 1784585428.147984,
+    "ast_hash": "4c1dee6c067cc8680705a3b2b08692d1",
+    "semantic_hash": "4c1dee6c067cc8680705a3b2b08692d1"
+  },
+  "Ejercicios Extra de ORMs/models.py": {
+    "mtime": 1784585428.148981,
+    "ast_hash": "cac15876f5ee62cb5f3a02a8186bc7e0",
+    "semantic_hash": "cac15876f5ee62cb5f3a02a8186bc7e0"
+  },
+  "Ejercicios Extra de ORMs/seed.py": {
+    "mtime": 1784585428.148981,
+    "ast_hash": "3a292c7963cfd8440c84bc5faf4e53b1",
+    "semantic_hash": "3a292c7963cfd8440c84bc5faf4e53b1"
+  },
+  "Ejercicios de Authentication/db.py": {
+    "mtime": 1784413584.4633257,
+    "ast_hash": "cf71f174526d3aff36815719de8c4636",
+    "semantic_hash": "cf71f174526d3aff36815719de8c4636"
+  },
+  "Ejercicios de Authentication/jwt_manager.py": {
+    "mtime": 1784348339.2762187,
+    "ast_hash": "2078b553eed77f59cfceaed64037be50",
+    "semantic_hash": "2078b553eed77f59cfceaed64037be50"
+  },
+  "Ejercicios de Authentication/main.py": {
+    "mtime": 1784428047.8194919,
+    "ast_hash": "b581e0f1829d6dbecfda8c270981201d",
+    "semantic_hash": "b581e0f1829d6dbecfda8c270981201d"
+  },
+  "ORMs/create_db.py": {
+    "mtime": 1784318875.0496705,
+    "ast_hash": "96051107f09f8a1d39caae5d79296a50",
+    "semantic_hash": "96051107f09f8a1d39caae5d79296a50"
+  },
+  "ORMs/models.py": {
+    "mtime": 1784318875.0496705,
+    "ast_hash": "2e4a09bc9d5fd98051687402fe42cbb3",
+    "semantic_hash": "2e4a09bc9d5fd98051687402fe42cbb3"
+  },
+  "postgresPython/db.py": {
+    "mtime": 1782695437.2461958,
+    "ast_hash": "f610fb090f003620601dca58aba00f73",
+    "semantic_hash": "f610fb090f003620601dca58aba00f73"
+  },
+  "postgresPython/main.py": {
+    "mtime": 1782696131.2026472,
+    "ast_hash": "4dc71a7b59985ba8ded858c6d636e9d5",
+    "semantic_hash": "4dc71a7b59985ba8ded858c6d636e9d5"
+  },
+  "postgresPython/repositories.py": {
+    "mtime": 1782694045.7942965,
+    "ast_hash": "0e57637055616b10c223847d41574929",
+    "semantic_hash": "0e57637055616b10c223847d41574929"
+  },
+  "CLAUDE.md": {
+    "mtime": 1784337827.5779116,
+    "ast_hash": "717cdff0e8e0d644c39af15955027788",
+    "semantic_hash": "717cdff0e8e0d644c39af15955027788"
+  }
+}
